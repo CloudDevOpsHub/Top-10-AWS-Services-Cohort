@@ -29,7 +29,10 @@
 
 ```
 → Login with your registered email
-→ Go to "My Bookings" → Open AWS Cohort-6
+→ Go to "My Bookings" → Open AWS Cohort
+<img width="218" height="469" alt="image" src="https://github.com/user-attachments/assets/7a92496c-dd05-4ef7-8187-27dd57a7f4ca" />
+
+
 → Watch the Day-wise Recorded Video Session for today
 → Pause. Practice. Repeat.
 ```
@@ -54,7 +57,7 @@ Know someone who should learn AWS? 🔥
 
 ---
 
-## 👋 Hello Dosto! I'm Vikas!
+## 👋 Hello Future Cloud Engineers..! I'm Vikas!
 
 Before we start this journey together, I just want to say —  
 **I'm really excited to connect with you all!** 🙌
@@ -166,7 +169,7 @@ Step 7: Post on LinkedIn — Challenge Accepted! 🔥
 
 ```
 ✅ Daily recordings on your portal
-✅ WhatsApp group updates
+✅ WhatsApp group updates Daily for the next 10 days
 ✅ Step-by-step practicals
 ✅ Interview-focused content
 ✅ Real-world industry scenarios
@@ -204,7 +207,7 @@ Here's what I'm about to build in the next 10 days:
 ...and real projects for my resume!
 
 This challenge is part of the AWS Cloud Cohort-6 by 
-@Vikas Ratnawat | @CloudDevOpsHub 
+@Vikas Ratnawat | @CloudDevOpsHub Community
 — India's Largest Cloud & DevOps Community (58K+ Members)
 
 If you're also on this journey — Drop a 🙋 in the comments!
