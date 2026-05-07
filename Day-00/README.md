@@ -134,7 +134,7 @@ Step 7: Post on LinkedIn — Challenge Accepted! 🔥
 ## 👨‍💻 About Your Mentor — Vikas Ratnawat
 
 ```
-🏢 Experience: Amazon | Microsoft | Google | PwC
+🏢 Experience: 15+ Year's & Founder of CloudDevOpsHub Community | PWC 
 🏆 Microsoft MVP
 👥 Community: 58,000+ Members — CloudDevOpsHub
 🎓 Students Trained: 10,000+
