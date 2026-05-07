@@ -1,56 +1,6 @@
-# 👀 Day 10 — AWS CloudWatch + 🏆 YOUR COMPLETION CERTIFICATE!
+# 👀 Day 10 — AWS CloudWatch + 🏆 YOUR COMPLETION Journey!
 
-> **Cohort:** AWS Cloud Cohort-6 by CloudDevOpsHub
-
----
-
-## 🚀 How to Use This Repo
-
-### 🍴 Step 1 — Fork This Repo
-```
-1. Click "Fork" at the top-right of this GitHub repo
-2. It will be copied to your own GitHub account
-3. Clone it locally:
-   git clone https://github.com/YOUR_USERNAME/aws-10day-challenge
-4. Do the practicals → Update your README with your own screenshots & notes
-5. Push your changes:
-   git add . && git commit -m "Day X complete ✅" && git push
-```
-> 💡 Your forked repo becomes your **public portfolio** — share it on LinkedIn!
-
----
-
-### 🔐 Step 2 — Login & Watch Recorded Sessions
-**Portal Login:**
-👉 [https://devopswithvikas.com/eud/login/email](https://devopswithvikas.com/eud/login/email)
-
-**Bookmark Your Recordings Page:**
-👉 [https://devopswithvikas.com/eud/bookings](https://devopswithvikas.com/eud/bookings)
-
-```
-→ Login with your registered email
-→ Go to "My Bookings" → Open AWS Cohort-6
-→ Watch the Day-wise Recorded Video Session for today
-→ Pause. Practice. Repeat.
-```
-> 📌 Recordings are valid for **8 weeks** — watch at your own pace!
-
----
-
-### 👥 Step 3 — Invite Your Friends
-Know someone who should learn AWS? 🔥
-
-**Share this enrollment link with them:**
-👉 [https://devopswithvikas.com/offer/top-10-aws-services-cohort-2026](https://devopswithvikas.com/offer/top-10-aws-services-cohort-2026)
-
-```
-✅ Top 10 AWS Services covered
-✅ Hands-on practicals every day
-✅ WhatsApp group support
-✅ Resume-worthy projects
-✅ Certificate on completion
-✅ Mentored by Vikas Ratnawat (Ex-Amazon | Microsoft | Google | Microsoft MVP)
-```
+> **Cohort:** CloudDevOpsHub | AWS Cloud Cohort | Hosted by CloudDevOpsHub Community & Vikas Ratnawat
 
 ---
 
@@ -215,24 +165,7 @@ Step 6: Post on LinkedIn with certificate + 10-day screenshots! 🎉
 
 ---
 
-## 🗺️ Your 30-Day Next Roadmap
-
-```
-Week 1-2: AWS Advanced
-→ Route 53 | CloudFront | Lambda | ECS/EKS
-
-Week 3-4: DevOps Core
-→ Docker + Kubernetes on AWS
-→ CI/CD: GitHub Actions + AWS CodePipeline
-→ Terraform: Infrastructure as Code
-→ Helm Charts for K8s
-
-🏆 Certification Path:
-1. AWS Cloud Practitioner (CLF-C02)   ← Register NOW
-2. AWS Solutions Architect Associate
-3. AWS DevOps Professional
-4. CKA (Certified Kubernetes Administrator)
-```
+## 🗺️ Your 55 Live Session Multi Cloud + DevOps With AI Journey  | [clouddevopshub.com/s/pages/best-free-aws-gcp-devops-ai-course-for-40lpa-high-paying-jobs](https://www.clouddevopshub.com/s/pages/best-free-aws-gcp-devops-ai-course-for-40lpa-high-paying-jobs) |
 
 ---
 
