@@ -1,6 +1,6 @@
 # ☁️ Day 1 — AWS Introduction & EC2 Basics
 
-> **Cohort:** AWS Cloud Cohort-6 by CloudDevOpsHub
+> **Cohort:** AWS Cloud Cohort by CloudDevOpsHub Community
 
 ---
 
