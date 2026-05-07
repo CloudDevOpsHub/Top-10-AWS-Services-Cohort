@@ -1,11 +1,11 @@
 # 🔥 Day 7 — Real-World Scenario Q&A: RDS Practical
 
-> **CloudDevOpsHub Cohort-6 | Mentor: Vikas Ratnawat**  
+> **AWS Cloud Cohort by CloudDevOpsHub Community**  
 > 🔗 [linkedin.com/in/vikasratnawat](https://www.linkedin.com/in/vikasratnawat/) | [clouddevopshub](https://www.linkedin.com/in/clouddevopshub/)
 
 ---
 
-## 🎬 These Scenarios Were Discussed in the Day's Recording
+## 🎬 These Scenarios can be discussed in a real-time interview
 
 ```
 📺 Watch the session first: https://devopswithvikas.com/eud/bookings
