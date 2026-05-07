@@ -1,6 +1,6 @@
 # 🔥 Day 2 — Real-World Scenario Q&A: EC2 Deep Dive
 
-> **CloudDevOpsHub Cohort-6 | Mentor: Vikas Ratnawat**  
+> **CloudDevOpsHub Cohort | Mentor: Vikas Ratnawat**  
 > 🔗 [linkedin.com/in/vikasratnawat](https://www.linkedin.com/in/vikasratnawat/) | [clouddevopshub](https://www.linkedin.com/in/clouddevopshub/)
 
 ---
