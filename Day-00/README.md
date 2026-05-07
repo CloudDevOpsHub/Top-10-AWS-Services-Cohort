@@ -82,6 +82,38 @@ Let's connect personally — feel free to **Connect & Follow:**
 
 Complete these steps **BEFORE Day 1** begins:
 
+## 🚀 Get Started — Follow These 3 Steps
+
+---
+
+### 🎯 Step 1 — Watch Cohort Overview Video
+
+<a href="https://www.youtube.com/watch?v=qBsjQ4lI7Zc" target="_blank">
+  <img src="https://img.youtube.com/vi/qBsjQ4lI7Zc/hqdefault.jpg" width="360" alt="Cohort Overview Video"/>
+</a>
+
+👉 [**Click to Watch: Cohort Overview Video**](https://www.youtube.com/watch?v=qBsjQ4lI7Zc)
+
+---
+
+### 🔹 Step 2 — Watch Welcome Message
+
+<a href="https://youtu.be/qZPWM3v6IdI" target="_blank">
+  <img src="https://img.youtube.com/vi/qZPWM3v6IdI/hqdefault.jpg" width="360" alt="Welcome Message Video"/>
+</a>
+
+👉 [**Click to Watch: Welcome Message**](https://youtu.be/qZPWM3v6IdI)
+
+---
+
+### 📍 Step 3 — Login to Your Portal
+
+[![Login to Portal](https://img.shields.io/badge/Login%20to%20Portal-Click%20Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devopswithvikas.com/eud/login/email)
+
+👉 [**https://devopswithvikas.com/eud/login/email**](https://devopswithvikas.com/eud/login/email)
+
+---
+
 ### 🎯 Step 1 — Watch Cohort Overview Video
 👉 [https://www.youtube.com/watch?v=qBsjQ4lI7Zc](https://www.youtube.com/watch?v=qBsjQ4lI7Zc)
 
