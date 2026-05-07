@@ -37,6 +37,7 @@ No random YouTube watching. No theory overload.
 ## 🏆 Challenge Rules
 
 ```
+• This cohort is discipline-based
 ✅ Complete the daily task
 ✅ Take a screenshot of your work
 ✅ Post on LinkedIn with your progress
@@ -84,8 +85,8 @@ India's Largest Cloud & DevOps Community (58K+ Members)
 - 🌐 Website: [devopswithvikas.com](https://devopswithvikas.com)
 - 📺 YouTube: CloudDevOpsHub
 - 👥 Community: 58,000+ Members
-- 🏆 Cohorts Completed: 43+
-- 👨‍🏫 Trainer: Vikas | Ex-Amazon, Microsoft, Google, PwC | Microsoft MVP
+- 🏆 Live RealTime Completed Batch: 43+
+- 👨‍🏫 Mentor: Vikas Ratawat [Vikas Ratnawat](https://www.linkedin.com/in/vikasratnawat/)
 
 ---
 
