@@ -1,6 +1,6 @@
 # 🚀 AWS 10-Day Cloud Challenge — CloudDevOpsHub
 
-> **By Vikas | CloudDevOpsHub | India's Largest Cloud & DevOps Community (58,000+ Members)**
+> **By CloudDevOpsHub Community | Vikas Ratnawat |  India's Largest Cloud & DevOps Community (58,000+ Members FB Group + 51,000 WhatsApp Member's + 25,000 Insta + 13,000 Youtube)**
 
 ---
 
@@ -66,7 +66,7 @@ India's Largest Cloud & DevOps Community (58K+ Members)
 #AWS #CloudComputing #DevOps #AWSChallenge #CloudDevOpsHub #LearningInPublic #CloudDevOpsHub #CloudDevOpsHubCommunity #VikasRatnawat #AWSCohortChallenge #10Days10AWSTasks
 ```
 
-> 💡 **Always tag:** [Vikas Ratnawat](https://www.linkedin.com/in/vikasratnawat/) & [CloudDevOpsHub](https://www.linkedin.com/in/clouddevopshub/) in every post for maximum visibility!
+> 💡 **Always tag:** [Vikas Ratnawat](https://www.linkedin.com/in/vikasratnawat/) & [CloudDevOpsHub](https://www.linkedin.com/in/clouddevopshub/) in every post for Optimised your Linkedin Profile &  visibility!
 
 ---
 
@@ -84,8 +84,9 @@ India's Largest Cloud & DevOps Community (58K+ Members)
 - 🌐 Website: [devopswithvikas.com](https://devopswithvikas.com)
 - 📺 YouTube: CloudDevOpsHub
 - 👥 Community: 58,000+ Members
-- 🏆 Cohorts Completed: 43+
-- 👨‍🏫 Trainer: Vikas | Ex-Amazon, Microsoft, Google, PwC | Microsoft MVP
+- 🏆 AWS Cohorts Completed: 5+
+- 🏆 Multi Cloud + DevOps With AI Batches Completed [clouddevopshub.com](https://www.clouddevopshub.com/s/pages/successstories)
+- 👨‍🏫 Menotor : Vikas Ratnawat | PwC | Ex Microsoft MVP
 
 ---
 
