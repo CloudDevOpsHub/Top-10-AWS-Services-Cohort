@@ -113,16 +113,6 @@ Complete these steps **BEFORE Day 1** begins:
 👉 [**https://devopswithvikas.com/eud/login/email**](https://devopswithvikas.com/eud/login/email)
 
 ---
-
-### 🎯 Step 1 — Watch Cohort Overview Video
-👉 [https://www.youtube.com/watch?v=qBsjQ4lI7Zc](https://www.youtube.com/watch?v=qBsjQ4lI7Zc)
-
-### 🔹 Step 2 — Watch Welcome Message
-👉 [https://youtu.be/qZPWM3v6IdI](https://youtu.be/qZPWM3v6IdI)
-
-### 📍 Step 3 — Login to Your Portal
-👉 [https://devopswithvikas.com/eud/login/email](https://devopswithvikas.com/eud/login/email)
-
 ### 📌 Step 4 — Bookmark Your Recordings Page
 👉 [https://devopswithvikas.com/eud/bookings](https://devopswithvikas.com/eud/bookings)  
 *(All your session recordings will be available here)*
