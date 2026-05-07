@@ -30,13 +30,13 @@
 ```
 → Login with your registered email
 → Go to "My Bookings" → Open AWS Cohort
-<img width="218" height="469" alt="image" src="https://github.com/user-attachments/assets/7a92496c-dd05-4ef7-8187-27dd57a7f4ca" />
-
-
 → Watch the Day-wise Recorded Video Session for today
 → Pause. Practice. Repeat.
 ```
 > 📌 Recordings are valid for **8 weeks** — watch at your own pace!
+>
+<img width="218" height="469" alt="image" src="https://github.com/user-attachments/assets/9d8f41a4-d132-4d90-8f76-c67e653f03c4" />
+
 
 ---
 
