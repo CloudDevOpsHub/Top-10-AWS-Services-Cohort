@@ -34,6 +34,14 @@ No random YouTube watching. No theory overload.
 
 ---
 
+---
+
+## 🎬 Watch Cohort Overview Video
+
+[![Cohort Overview Video](https://img.youtube.com/vi/qBsjQ4lI7Zc/maxresdefault.jpg)](https://www.youtube.com/watch?v=qBsjQ4lI7Zc)
+
+👉 [**Click to Watch: Cohort Overview Video**](https://www.youtube.com/watch?v=qBsjQ4lI7Zc)
+
 ## 🏆 Challenge Rules
 
 ```
